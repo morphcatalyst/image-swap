@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.morphcatalyst.image-swap"
+    version     = "1.0.0" >
+  <name>Image swap</name>
+  <description>
+      A simple interactive game in 9 cell matrix. Drag and drop images to swap them.
+  </description>
+  <author href="https://morphcatalyst.com.au" email="do.not.reply@morphcatalyst.com.au">
+      Amit Gandhi
+  </author>
+</widget>
